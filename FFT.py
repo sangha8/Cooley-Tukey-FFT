@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Basic implementation of Cooley-Tukey FFT algorithm in Python
+ 
+Reference:
+https://en.wikipedia.org/wiki/Fast_Fourier_transform
+'''
+ 
+__author__ = 'Darko Lukic'
+__email__ = 'lukicdarkoo@gmail.com'
+ http://pythonexample.com/code/cooley%20tukey/
 """
 import numpy as np
 import matplotlib.pyplot as plt
